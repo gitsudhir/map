@@ -81,7 +81,7 @@ export const Location = () => {
 
   return (
     <>
-      <h1>find location</h1>
+      <h1>Find location on map</h1>
       <form
         onSubmit={e => {
           e.preventDefault();
